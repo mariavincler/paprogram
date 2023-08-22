@@ -1,0 +1,36 @@
+Dever 22/08 
+
+A relação entre LGPD e os Data centers no Brasil
+
+Data Centers consistem em um conjunto de equipamentos utilizados por uma organização (empresas) para o processamento e armazenamento de dados, sistemas e aplicações. É uma estrutura física (prédio) com um monte de computadores que armazenam dados.
+
+Nesse sentido, a LGPD estabelece, ainda, que não importa se a sede de uma organização ou o seu Data Center estão localizados no Brasil ou no exterior, ou ainda se os dados são tratados no meio físico ou nos digitais: todos estão sujeitos à regulação. 
+A LGPD também tem responsabilidade nos Data Centers fora do Brasil se estes tratarem de dados de brasileiros e residentes do Brasil. Esta lei tem abrangência extraterritorial.
+
+Requisitos fundamentais para assegurar as condições de segurança e as premissas da LGPD para Data Centers: 
+* Mapeamento de quais dados são tratados, por quais áreas e com qual finalidade;
+* Atualização de softwares e sistemas de controle de hardware;
+* Monitoramento frequente de recursos;
+* Política de controle de acesso físico e online;
+* Divulgação e treinamento dos colaboradores com relação às boas práticas de TI;
+
+Formatos de arquivos de dados- É o modo específico de codificar a informação para o seu armazenamento em um arquivo de computador.
+
+
+ proprietários e abertos
+
+O principal objetivo dos formatos abertos é garantir o acesso aos dados a longo prazo sem inseguranças jurídicas ou restrições devido às especificações técnicas.
+ exemplos: 
+
+OASIS OpenDocument Format for Office Applications (para suites e documentos para escritório)
+LaTeX (uma linguagem de documentação)
+Json (uma linguagem de documentação)
+
+Os formatos proprietários são, na verdade, controlados e definidos por interesses privados. Com o formato proprietário, o usuário corre o risco de perder todas as informações contidas no arquivo caso o software pare de funcionar.
+exemplos:
+DWG 
+SWF 
+DOC- formato proprietário de texto
+O que são dados públicos- São dados oriundos da atividade do governo ou de interesse públicos. 
+Qual o formato de arquivo ideal para eles ? aberto.
+
