@@ -1,0 +1,30 @@
+# paprogram
+TRABALHO 29/08
+1-Explique as diferenças entre 3 linguagens de programação
+Python
+Criada em 1991
+É uma linguagem Open-Source extremamente versátil em sua utilidade
+Amplamente usada para ciência de dados, criação da web
+Python 3.10.5 (main, Jul 22 2022, 17:09:35) [GCC 9.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> faculdade de direito ibmec
+Java 
+ É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("faculdade de direito'');
+  }
+Javascript
+Não é bem uma linguagem de programação e sim uma linguagem interpretada por navegadores. 
+Ela permite que você construa sites interativos e é uma tecnologia de ferramenta web essencial porque é utilizada pela maioria dos navegadores.
+const message = 'salada de frutas' // Try edit me
+
+
+// Update header text
+document.querySelector('#header').innerHTML = message
+
+
+// Log to console
+console.log(message)
+
+
